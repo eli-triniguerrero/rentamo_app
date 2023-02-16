@@ -1,0 +1,1 @@
+# rentamo_app
